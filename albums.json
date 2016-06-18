@@ -1,4 +1,12 @@
-{
-  "2261436": "Naanum Rowdy Dhaan",
-  "2263135": "Theri"
-}
+[
+  {
+    "id": "2261436",
+    "name": "Naanum Rowdy Dhaan",
+    "artist": "Anirudh Ravichander"
+  },
+  {
+    "id": "2263135",
+    "name": "Theri",
+    "artist": "G.V. Prakash Kumar"
+  }
+]
