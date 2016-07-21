@@ -1,44 +1,52 @@
-[
-  {
-    "duration": "262000",
-    "id": "34570770",
-    "title": "Thangamey",
-    "trackNumber": "1",
-    "youtubeLink": "4bZ-MAOLbGc"
-  },
-  {
-    "duration": "301000",
-    "id": "34570771",
-    "title": "Neeyum Naanum",
-    "trackNumber": "2",
-    "youtubeLink": "wo8PLSPW88c"
-  },
-  {
-    "duration": "177000",
-    "id": "34570772",
-    "title": "Naanum Rowdy Dhaan",
-    "trackNumber": "3",
-    "youtubeLink": "hu--gLNt4Hg"
-  },
-  {
-    "duration": "274000",
-    "id": "34570773",
-    "title": "Yennai Maatrum Kadhale",
-    "trackNumber": "4",
-    "youtubeLink": "A7ejEYLbOjc"
-  },
-  {
-    "duration": "267000",
-    "id": "34570774",
-    "title": "Kannaane Kanne",
-    "trackNumber": "5",
-    "youtubeLink": "mmE44f2_4Zg"
-  },
-  {
-    "duration": "202000",
-    "id": "34570775",
-    "title": "Varavaa Varavaa",
-    "trackNumber": "6",
-    "youtubeLink": "Fo0Rz5fkz-o"
-  }
-]
+{
+  "id": "2261436",
+  "artistId": "129757",
+  "name": "Naanum Rowdy Dhaan",
+  "artist": "Anirudh Ravichander",
+  "albumArt": "http://media.theaudiodb.com/images/media/album/thumb/xvtuqq1457460899.jpg",
+  "year": 2015,
+  "tracks": [
+    {
+      "duration": "262000",
+      "id": "34570770",
+      "title": "Thangamey",
+      "trackNumber": "1",
+      "youtubeLink": "4bZ-MAOLbGc"
+    },
+    {
+      "duration": "301000",
+      "id": "34570771",
+      "title": "Neeyum Naanum",
+      "trackNumber": "2",
+      "youtubeLink": "wo8PLSPW88c"
+    },
+    {
+      "duration": "177000",
+      "id": "34570772",
+      "title": "Naanum Rowdy Dhaan",
+      "trackNumber": "3",
+      "youtubeLink": "hu--gLNt4Hg"
+    },
+    {
+      "duration": "274000",
+      "id": "34570773",
+      "title": "Yennai Maatrum Kadhale",
+      "trackNumber": "4",
+      "youtubeLink": "A7ejEYLbOjc"
+    },
+    {
+      "duration": "267000",
+      "id": "34570774",
+      "title": "Kannaane Kanne",
+      "trackNumber": "5",
+      "youtubeLink": "mmE44f2_4Zg"
+    },
+    {
+      "duration": "202000",
+      "id": "34570775",
+      "title": "Varavaa Varavaa",
+      "trackNumber": "6",
+      "youtubeLink": "Fo0Rz5fkz-o"
+    }
+  ]
+}

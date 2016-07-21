@@ -1,58 +1,66 @@
-[
-  {
-    "duration": "289000",
-    "id": "34587718",
-    "title": "Jithu Jilladi",
-    "trackNumber": "1",
-    "youtubeLink": "9lkT6HnwCzQ"
-  },
-  {
-    "duration": "290000",
-    "id": "34587719",
-    "title": "Chellaakutty",
-    "trackNumber": "2",
-    "youtubeLink": "N65aMlDJWOE"
-  },
-  {
-    "duration": "320000",
-    "id": "34587720",
-    "title": "Yen Jeevan",
-    "trackNumber": "3",
-    "youtubeLink": "H3GhtM8V-d"
-  },
-  {
-    "duration": "247000",
-    "id": "34587721",
-    "title": "Eena Meena Teeka",
-    "trackNumber": "4",
-    "youtubeLink": "smlx68w2UnM"
-  },
-  {
-    "duration": "233000",
-    "id": "34587722",
-    "title": "Rang",
-    "trackNumber": "5",
-    "youtubeLink": "-c2l8IXfAOk"
-  },
-  {
-    "duration": "120000",
-    "id": "34587723",
-    "title": "Theri Rap Theme",
-    "trackNumber": "6",
-    "youtubeLink": ""
-  },
-  {
-    "duration": "119000",
-    "id": "34587724",
-    "title": "Theri Dubstep",
-    "trackNumber": "7",
-    "youtubeLink": "j-rX3j6vL1E"
-  },
-  {
-    "duration": "166000",
-    "id": "34587725",
-    "title": "Thaimai",
-    "trackNumber": "8",
-    "youtubeLink": "DSsDYPFCp6M"
-  }
-]
+{
+  "id": "2263135",
+  "artistId": "118522",
+  "name": "Theri",
+  "artist": "G.V. Prakash Kumar",
+  "albumArt": "http://media.theaudiodb.com/images/media/album/thumb/tqvrtq1461646043.jpg",
+  "year": 2016,
+  "tracks": [
+    {
+      "duration": "289000",
+      "id": "34587718",
+      "title": "Jithu Jilladi",
+      "trackNumber": "1",
+      "youtubeLink": "9lkT6HnwCzQ"
+    },
+    {
+      "duration": "290000",
+      "id": "34587719",
+      "title": "Chellaakutty",
+      "trackNumber": "2",
+      "youtubeLink": "N65aMlDJWOE"
+    },
+    {
+      "duration": "320000",
+      "id": "34587720",
+      "title": "Yen Jeevan",
+      "trackNumber": "3",
+      "youtubeLink": "H3GhtM8V-d"
+    },
+    {
+      "duration": "247000",
+      "id": "34587721",
+      "title": "Eena Meena Teeka",
+      "trackNumber": "4",
+      "youtubeLink": "smlx68w2UnM"
+    },
+    {
+      "duration": "233000",
+      "id": "34587722",
+      "title": "Rang",
+      "trackNumber": "5",
+      "youtubeLink": "-c2l8IXfAOk"
+    },
+    {
+      "duration": "120000",
+      "id": "34587723",
+      "title": "Theri Rap Theme",
+      "trackNumber": "6",
+      "youtubeLink": ""
+    },
+    {
+      "duration": "119000",
+      "id": "34587724",
+      "title": "Theri Dubstep",
+      "trackNumber": "7",
+      "youtubeLink": "j-rX3j6vL1E"
+    },
+    {
+      "duration": "166000",
+      "id": "34587725",
+      "title": "Thaimai",
+      "trackNumber": "8",
+      "youtubeLink": "DSsDYPFCp6M"
+    }
+  ]
+}
